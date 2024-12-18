@@ -138,10 +138,9 @@ CSS :
     </div>
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-12-18 113255.png>)
-![alt text](<Screenshot 2024-12-18 125836.png>)
-![alt text](<Screenshot 2024-12-18 125855.png>)
-![alt text](<Screenshot 2024-12-18 125916.png>)
-
+![alt text](Home.png)
+![alt text](Event.png)
+![alt text](Reg.png)
+![alt text](Response.png)
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
